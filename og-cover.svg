@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f7f7f5"/>
+  <rect x="40" y="40" width="1120" height="550" fill="#111"/>
+  <rect x="40" y="40" width="15" height="550" fill="#e00000"/>
+  <text x="100" y="120" fill="#f7f7f5" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" letter-spacing="3">LA INMOBILIARIA DEL CONGRESO</text>
+  <path d="M100 156h1000" stroke="#707070" stroke-width="2"/>
+  <text x="100" y="290" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="83" font-weight="700" letter-spacing="-4">Las viviendas de quienes</text>
+  <text x="100" y="388" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="83" font-weight="700" letter-spacing="-4">ponen las <tspan fill="#e00000">reglas.</tspan></text>
+  <text x="100" y="496" fill="#c7c7c7" font-family="Arial, Helvetica, sans-serif" font-size="30">Datos, fuentes y propuestas sobre vivienda.</text>
+  <circle cx="1060" cy="502" r="27" fill="none" stroke="#e00000" stroke-width="9"/>
+  <path d="M1060 528v33m0-12h17m-8 0v12" fill="none" stroke="#e00000" stroke-width="9" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,24 @@
+# La Inmobiliaria del Congreso
+
+> Proyecto independiente que reúne las viviendas declaradas por integrantes de la XV legislatura del Congreso de los Diputados, muestra la fecha y la fuente de cada ficha y separa los datos comprobables de las propuestas editoriales.
+
+Las cifras proceden de declaraciones de bienes publicadas e incluyen participaciones parciales. No acreditan cuántas viviendas posee hoy una persona ni permiten inferir sus motivos de voto. «0» indica que no declaró viviendas; «—» indica que no hay declaración disponible. La XV legislatura fue disuelta en octubre de 2026: estas fichas son una fotografía fechada, no una lista de diputados actuales.
+
+Las medidas de la Propuesta Mari Carmen son propuestas ciudadanas, no leyes vigentes. La página de propuestas de partidos distingue anuncios, textos registrados y resultados, e incluye solo entradas respaldadas por documentos. Las cifras del censo de 2023 no deben presentarse como cifras de las elecciones de 2026.
+
+## Páginas principales
+
+- [Portada y datos](https://lainmobiliariadelcongreso.com/): Hemiciclo, distribución de viviendas y contexto de las declaraciones.
+- [Diputados](https://lainmobiliariadelcongreso.com/congreso/): Listado y acceso a cada ficha individual con fuente y fecha.
+- [Ponles cara](https://lainmobiliariadelcongreso.com/ponles-cara/): Exploración de las fichas con retratos.
+- [Propuestas de vivienda de los partidos](https://lainmobiliariadelcongreso.com/propuestas-vivienda/): Seguimiento documental de medidas ante las elecciones generales de 2026 y comparación electoral de 2023.
+- [Propuesta Mari Carmen](https://lainmobiliariadelcongreso.com/propuesta-mari-carmen/): Posición editorial ciudadana sobre el acceso a la vivienda.
+- [Quién hay detrás](https://lainmobiliariadelcongreso.com/quienes-somos/): Historia y motivación de los creadores.
+
+## Fuentes primarias y metodología
+
+- [Congreso Abierto, datos](https://congresoabierto.org/datos/): Datos derivados de declaraciones oficiales del Congreso; atribución y licencia.
+- [Congreso Abierto, metodología](https://congresoabierto.org/metodologia/): Cómo interpretar las cifras de viviendas declaradas.
+- [INE, censo por edad de las generales de 2023](https://www.ine.es/jaxi/Tabla.htm?L=0&tpx=59777): Fuente de la cifra histórica de electores de 18 a 29 años.
+- [BOE, resultados definitivos de las generales de 2023](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-18907): Votos y escaños del Congreso.
+- [INE, elecciones generales de 2026](https://www.ine.es/dyngs/CEL/es/index.htm?cid=1703): Disponibilidad de las tablas del censo de la convocatoria.
